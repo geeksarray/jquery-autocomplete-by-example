@@ -1,0 +1,2 @@
+# jquery-autocomplete-by-example
+In this example you will create a ASP.NET Web Form application which will connect to Northwind database. If you do not have Northwind database you can download from here. The AutoComplete TextBox's change event will call PageMethod written in WebForm code behind file. This method will get country names from Customer table and return as suggestion for AutoComplete TextBox.
