@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryAutocomplete", "jQueryAutocomplete\jQueryAutocomplete.csproj", "{DC351373-4168-41F5-BEB9-433B989C9EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC351373-4168-41F5-BEB9-433B989C9EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC351373-4168-41F5-BEB9-433B989C9EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC351373-4168-41F5-BEB9-433B989C9EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC351373-4168-41F5-BEB9-433B989C9EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
