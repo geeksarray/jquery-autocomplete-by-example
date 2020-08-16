@@ -1,8 +1,9 @@
 # jQuery Autocomplete by example
 
-This article helps you to create AutoComplete textbox using jQuery library. This will also give you details about jQuery AutoComplete UI, CSS and select event.
+This article helps you to create an AutoComplete textbox using jQuery library. This will also give you details about jQuery AutoComplete UI, CSS, and select event.
 
-In this example you will create a ASP.NET Web Form application which will connect to Northwind database. If you do not have Northwind database you can download from here. The AutoComplete TextBox's change event will call PageMethod written in WebForm code behind file. This method will get country names from Customer table and return as suggestion for AutoComplete TextBox.
+In this example, you will create a ASP.NET Web Form application that will connect to the Northwind database. If you do not have the Northwind database you can download from 
+[here](https://github.com/geeksarray/SQLSampleDatabase/blob/master/Northwind.sql). The AutoComplete TextBox's change event will call PageMethod written in WebForm code behind file. This method will get country names from the Customer table and return as a suggestion for AutoComplete TextBox.
 
 ## Files
 
